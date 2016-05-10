@@ -29,7 +29,7 @@ z-index:2000;
 #busca{
 	margin-left: 70%;
 	margin-top: -70px;
-	margin-bottom:;
+    /*margin-bottom:;*/
 	
 }
 
@@ -38,25 +38,32 @@ z-index:2000;
 }
 
 
-#registre-se a{
+#registre-se {
 	position:relative;
 	top:-15px;
-	left: 77%;
-	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: #fff;
+	left: 28%;
+
 	height:150px;
 	
 }
 
-#login a{
+#login {
 	position:relative;
-	top:-35px;
-	left: 88%;
+	top:-165px;
+	left: 83%;
+
+}
+
+
+#registre-se a{
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #fff;
 	
 }
-
+#login a{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #fff;
+}
 
 
 
